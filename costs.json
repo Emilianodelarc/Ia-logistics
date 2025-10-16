@@ -1,0 +1,8 @@
+{
+  "fuel_price_ars_per_litre": 1200,
+  "driver_cost_ars_per_hour": 4000,
+  "toll_costs_ars_per_trip_avg": 2500,
+  "maintenance_cost_ars_per_km": 90,
+  "co2_factor_kg_per_litre": 2.31,
+  "notes": "Valores de referencia. Ajustar a tu operación real."
+}

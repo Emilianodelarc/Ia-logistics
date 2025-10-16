@@ -1,0 +1,6 @@
+vehiculos_usados: 5
+km_totales: 10437.039999999999
+costo_total_ars: 8207850.363704716
+costo_promedio_por_km_ars: 786.415531961621
+costo_promedio_por_vehiculo_ars: 1641570.0727409432
+costo_medio_por_ruta_ars: 1025981.2954630895

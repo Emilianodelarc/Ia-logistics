@@ -1,0 +1,9 @@
+vehicle_id,type,capacity_kg,capacity_m3,refrigerated,km_per_litre,cost_per_km_ars,fixed_cost_per_day_ars,owner
+VEH-100,van,1200,10,0,10.5,250,15000,LogiPro
+VEH-101,truck_6t,6000,35,0,5.5,420,30000,RutaMax
+VEH-102,van,1200,10,0,10.5,250,15000,CityPlus
+VEH-103,truck_12t,12000,60,0,3.8,650,50000,LogiAR
+VEH-104,van,1200,10,0,10.5,250,15000,Ruta360
+VEH-105,van,1200,10,0,10.5,250,15000,City360
+VEH-106,truck_12t,12000,60,0,3.8,650,50000,RutaGo
+VEH-107,refrigerated_4t,4000,28,1,6.5,520,38000,LogiMax
