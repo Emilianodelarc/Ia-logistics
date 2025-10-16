@@ -1,0 +1,30 @@
+# --- CORE APP ---
+streamlit==1.37.0
+pandas==2.2.2
+numpy==1.26.4
+
+# --- MAPAS Y VISUALIZACIÓN ---
+folium==0.15.1
+streamlit-folium==0.18.0
+geopy==2.4.1
+
+# --- OPTIMIZACIÓN Y LOGÍSTICA (VRP) ---
+ortools==9.10.4067
+python-dateutil==2.9.0.post0
+
+# --- DASHBOARD Y COSTOS ---
+matplotlib==3.9.2
+plotly==5.23.0
+
+# --- UTILIDADES GENERALES ---
+requests==2.32.3
+openpyxl==3.1.5
+jsonschema==4.23.0
+
+# --- IA / PROCESAMIENTO (opcional para futuro) ---
+scikit-learn==1.5.1
+sentence-transformers==3.0.1
+
+# --- STREAMLIT DEPLOYMENT COMPATIBILITY ---
+altair==5.3.0
+protobuf==4.25.3
